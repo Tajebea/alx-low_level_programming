@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
-* This is the putchar program 
-* main - check the code
-*/
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
     printf("_putchar\n");
