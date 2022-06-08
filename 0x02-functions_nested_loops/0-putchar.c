@@ -1,7 +1,11 @@
-/* This is the putchar program */
 #include <stdio.h>
- int main()
- {
-  printf( "_putchar\n" );
-  return 0;
-  } 
+
+/**
+ * This is the putchar program 
+ * main - check the code
+ */
+int main()
+{
+    printf( "_putchar\n" );
+    return 0;
+}
