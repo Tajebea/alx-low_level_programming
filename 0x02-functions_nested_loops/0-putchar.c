@@ -1,9 +1,7 @@
 /* This is the putchar program */
 #include <stdio.h>
- 
- 
-  int main()
+ int main()
  {
-      printf( "_putchar\n" );
-    return 0;
+  printf( "_putchar\n" );
+  return 0;
   } 
